@@ -1,0 +1,31 @@
+{
+  "name": "page-transition-experiment",
+  "version": "1.0.0",
+  "description": "page transition experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzydp/page-transition-experiment.git"
+  },
+  "keywords": [
+    "page-transition",
+    "barba.js"
+  ],
+  "author": "SZDP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzydp/page-transition-experiment/issues"
+  },
+  "homepage": "https://github.com/suzydp/page-transition-experiment#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
