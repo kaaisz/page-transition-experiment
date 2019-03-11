@@ -22,6 +22,7 @@
   "homepage": "https://github.com/suzydp/page-transition-experiment#readme",
   "dependencies": {},
   "devDependencies": {
+    "barba.js": "^1.0.0",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-clean-css": "^4.0.0",
